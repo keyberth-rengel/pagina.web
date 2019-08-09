@@ -1,0 +1,100 @@
+{
+    "productos": [
+        {
+            "nombre": "HTML5",
+            "precio": 25,
+            "img": "img/camisa_1.png",
+            "detalles": [
+                "Talla: Mediana",
+                "Colores lisos: 100 % algodón. Gris jaspeado: 90 % algodón y 10 % poliéster. Antracita jaspeado: 52 % algodón y 48 % poliéster.",
+                "Producción ética.",
+                "Corte entallado (si prefieres la ropa ancha, puedes pedir una talla más).",
+                "Gramaje: 145 g/m². Si te resulta demasiado ligero, te recomendamos la camiseta clásica, que tiene un gramaje algo superior."
+            ]
+        },
+        {
+            "nombre": "CSS3",
+            "precio": 25,
+            "img": "img/camisa_2.png",
+            "detalles": [
+                "Talla: Mediana",
+                "Colores lisos: 100 % algodón. Gris jaspeado: 90 % algodón y 10 % poliéster. Antracita jaspeado: 52 % algodón y 48 % poliéster.",
+                "Producción ética.",
+                "Corte entallado (si prefieres la ropa ancha, puedes pedir una talla más).",
+                "Gramaje: 145 g/m². Si te resulta demasiado ligero, te recomendamos la camiseta clásica, que tiene un gramaje algo superior."
+            ]
+        },
+        {
+            "nombre": "JavaScript",
+            "precio": 25,
+            "img": "img/camisa_3.png",
+            "detalles": [
+                "Talla: Mediana",
+                "Colores lisos: 100 % algodón. Gris jaspeado: 90 % algodón y 10 % poliéster. Antracita jaspeado: 52 % algodón y 48 % poliéster.",
+                "Producción ética.",
+                "Corte entallado (si prefieres la ropa ancha, puedes pedir una talla más).",
+                "Gramaje: 145 g/m². Si te resulta demasiado ligero, te recomendamos la camiseta clásica, que tiene un gramaje algo superior."
+            ]
+        },
+        {   
+            "nombre": "NodeJS",
+            "precio": 25,
+            "img": "img/camisa_4.png",
+            "detalles": [
+                "Talla: Mediana",
+                "Colores lisos: 100 % algodón. Gris jaspeado: 90 % algodón y 10 % poliéster. Antracita jaspeado: 52 % algodón y 48 % poliéster.",
+                "Producción ética.",
+                "Corte entallado (si prefieres la ropa ancha, puedes pedir una talla más).",
+                "Gramaje: 145 g/m². Si te resulta demasiado ligero, te recomendamos la camiseta clásica, que tiene un gramaje algo superior."
+            ]
+        },
+        {   
+            "nombre": "AngularJS",
+            "precio": 25,
+            "img": "img/camisa_5.png",
+            "detalles": [
+                "Talla: Mediana",
+                "Colores lisos: 100 % algodón. Gris jaspeado: 90 % algodón y 10 % poliéster. Antracita jaspeado: 52 % algodón y 48 % poliéster.",
+                "Producción ética.",
+                "Corte entallado (si prefieres la ropa ancha, puedes pedir una talla más).",
+                "Gramaje: 145 g/m². Si te resulta demasiado ligero, te recomendamos la camiseta clásica, que tiene un gramaje algo superior."
+            ]
+        },
+        {   
+            "nombre": "GitHub",
+            "precio": 25,
+            "img": "img/camisa_6.png",
+            "detalles": [
+                "Talla: Mediana",
+                "Colores lisos: 100 % algodón. Gris jaspeado: 90 % algodón y 10 % poliéster. Antracita jaspeado: 52 % algodón y 48 % poliéster.",
+                "Producción ética.",
+                "Corte entallado (si prefieres la ropa ancha, puedes pedir una talla más).",
+                "Gramaje: 145 g/m². Si te resulta demasiado ligero, te recomendamos la camiseta clásica, que tiene un gramaje algo superior."
+            ]
+        },
+        {
+            "nombre": "WordPress",
+            "precio": 25,
+            "img": "img/camisa_7.png",
+            "detalles": [
+                "Talla: Mediana",
+                "Colores lisos: 100 % algodón. Gris jaspeado: 90 % algodón y 10 % poliéster. Antracita jaspeado: 52 % algodón y 48 % poliéster.",
+                "Producción ética.",
+                "Corte entallado (si prefieres la ropa ancha, puedes pedir una talla más).",
+                "Gramaje: 145 g/m². Si te resulta demasiado ligero, te recomendamos la camiseta clásica, que tiene un gramaje algo superior."
+            ]
+        },
+        {
+            "nombre": "Fundation",
+            "precio": 25,
+            "img": "img/camisa_8.png",
+            "detalles": [
+                "Talla: Mediana",
+                "Colores lisos: 100 % algodón. Gris jaspeado: 90 % algodón y 10 % poliéster. Antracita jaspeado: 52 % algodón y 48 % poliéster.",
+                "Producción ética.",
+                "Corte entallado (si prefieres la ropa ancha, puedes pedir una talla más).",
+                "Gramaje: 145 g/m². Si te resulta demasiado ligero, te recomendamos la camiseta clásica, que tiene un gramaje algo superior."
+            ]
+        }
+    ]
+}

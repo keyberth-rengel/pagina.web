@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+body {
+  width: 100%;
+  background: #fef9ff;
+  font-family: arial, sans-serif; }
+
+.contenedor-padre {
+  width: 1024px;
+  margin: 0px auto;
+  background: #fff;
+  padding-top: 10px; }
+
+.encabezado {
+  width: 100%;
+  font-family: arial;
+  background: #fff;
+  padding: 0 20px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #b6cde5; }
+.encabezado ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 10; }
+.encabezado ul li {
+  display: inline-block;
+  font-size: 17px; }
+.encabezado ul li .icono-encabezado {
+  border-radius: 40px;
+  border: none; }
+.encabezado ul li a {
+  text-decoration: none;
+  display: inline-block;
+  color: #3c6a9f;
+  cursor: pointer;
+  padding: 10px 15px;
+  border-bottom: solid 4px transparent; }
+.encabezado ul li a:hover {
+  color: #0a2046;
+  border-bottom: solid 4px #0a2046; }
+
+.icono {
+  width: 100%;
+  padding: 30px;
+  text-align: center; }
+
+.productos {
+  padding: 20px;
+  background: #e8eef4; }
+.productos .titulo {
+  font-size: 35px;
+  color: #0a2046;
+  margin: 15px 0;
+  text-align: center; }
+.productos .contenedor-camisas {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 30px 0; }
+.productos .contenedor-camisas .camisas .camisas-img .detalle-camisa:hover {
+  background: #0a2046; }
+.productos .contenedor-camisas .camisas .detalles-ocultos {
+  width: 60%; }
+.productos .contenedor-camisas .camisas .detalles-ocultos .calificacion {
+  font-size: 25px;
+  color: #150578;
+  padding: 10px 0; }
+.productos .contenedor-camisas .camisas .detalles-ocultos p .fa {
+  color: #ffb400; }
+.productos .contenedor-camisas .camisas .detalles-ocultos p .far {
+  color: #ffb400; }
+.productos .contenedor-camisas .camisas .detalles-ocultos h2 {
+  font-size: 25px;
+  color: #1964fa;
+  padding: 10px 0; }
+.productos .contenedor-camisas .camisas .detalles-ocultos .mas-detalles {
+  color: #0a2046; }
+.productos .contenedor-camisas .camisas .detalles-ocultos .mas-detalles li {
+  text-align: justify;
+  font-size: 18px;
+  padding-bottom: 15px; }
+.productos .contenedor-camisas .camisas .detalles-ocultos a {
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px 15px;
+  color: #fff;
+  background: #1964fa;
+  border-radius: 4px; }
+.productos .contenedor-camisas .camisas .detalles-ocultos a:active {
+    background: #192bc2; }
+
+@media screen and (max-width:780px){
+  .tabla {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width:576px){
+  .container {
+    width: 100%;
+  }
+}
