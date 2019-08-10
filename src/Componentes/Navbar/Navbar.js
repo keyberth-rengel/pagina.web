@@ -30,7 +30,7 @@ class Navbar extends Component {
 								</li>
 							</ul>
 
-							<form  className="mt-1 mr-2 form-inline" onClick={this.buscador}>
+							<form  className="mt-1 mr-2 form-inline justify-content-center d-flex" onClick={this.buscador}>
 								<input type="text" className="form-control mr-2 mb-2" placeholder="Buscar" />
 								<button type="submit" className="mb-2 btn btn-primary">Buscar</button>
 							</form>

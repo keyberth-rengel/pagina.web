@@ -1,2 +1,6 @@
-# TiendaOnline-Desarrollo
-donde puedes comprar camisas de tecnologias
+
+##descargue el archivo y luego ejecute 
+
+###'npm install '
+
+asi podra disfrutar de la app desde local
