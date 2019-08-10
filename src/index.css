@@ -98,7 +98,7 @@ body {
 .productos .contenedor-camisas .camisas .detalles-ocultos a:active {
     background: #192bc2; }
 
-@media screen and (max-width:780px){
+@media screen and (max-width:990px){
   .tabla {
     width: 90%;
   }

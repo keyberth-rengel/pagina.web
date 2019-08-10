@@ -3,7 +3,7 @@
         {
             "nombre": "HTML5",
             "precio": 25,
-            "img": "img/camisa_1.png",
+            "img": "./img/camisa_1.png",
             "detalles": [
                 "Talla: Mediana",
                 "Colores lisos: 100 % algodón. Gris jaspeado: 90 % algodón y 10 % poliéster. Antracita jaspeado: 52 % algodón y 48 % poliéster.",
@@ -15,7 +15,7 @@
         {
             "nombre": "CSS3",
             "precio": 25,
-            "img": "img/camisa_2.png",
+            "img": "./img/camisa_2.png",
             "detalles": [
                 "Talla: Mediana",
                 "Colores lisos: 100 % algodón. Gris jaspeado: 90 % algodón y 10 % poliéster. Antracita jaspeado: 52 % algodón y 48 % poliéster.",
@@ -27,7 +27,7 @@
         {
             "nombre": "JavaScript",
             "precio": 25,
-            "img": "img/camisa_3.png",
+            "img": "./img/camisa_3.png",
             "detalles": [
                 "Talla: Mediana",
                 "Colores lisos: 100 % algodón. Gris jaspeado: 90 % algodón y 10 % poliéster. Antracita jaspeado: 52 % algodón y 48 % poliéster.",
@@ -39,7 +39,7 @@
         {   
             "nombre": "NodeJS",
             "precio": 25,
-            "img": "img/camisa_4.png",
+            "img": "./img/camisa_4.png",
             "detalles": [
                 "Talla: Mediana",
                 "Colores lisos: 100 % algodón. Gris jaspeado: 90 % algodón y 10 % poliéster. Antracita jaspeado: 52 % algodón y 48 % poliéster.",
@@ -51,7 +51,7 @@
         {   
             "nombre": "AngularJS",
             "precio": 25,
-            "img": "img/camisa_5.png",
+            "img": "./img/camisa_5.png",
             "detalles": [
                 "Talla: Mediana",
                 "Colores lisos: 100 % algodón. Gris jaspeado: 90 % algodón y 10 % poliéster. Antracita jaspeado: 52 % algodón y 48 % poliéster.",
@@ -63,7 +63,7 @@
         {   
             "nombre": "GitHub",
             "precio": 25,
-            "img": "img/camisa_6.png",
+            "img": "./img/camisa_6.png",
             "detalles": [
                 "Talla: Mediana",
                 "Colores lisos: 100 % algodón. Gris jaspeado: 90 % algodón y 10 % poliéster. Antracita jaspeado: 52 % algodón y 48 % poliéster.",
@@ -75,7 +75,7 @@
         {
             "nombre": "WordPress",
             "precio": 25,
-            "img": "img/camisa_7.png",
+            "img": "./img/camisa_7.png",
             "detalles": [
                 "Talla: Mediana",
                 "Colores lisos: 100 % algodón. Gris jaspeado: 90 % algodón y 10 % poliéster. Antracita jaspeado: 52 % algodón y 48 % poliéster.",
@@ -87,7 +87,7 @@
         {
             "nombre": "Fundation",
             "precio": 25,
-            "img": "img/camisa_8.png",
+            "img": "./img/camisa_8.png",
             "detalles": [
                 "Talla: Mediana",
                 "Colores lisos: 100 % algodón. Gris jaspeado: 90 % algodón y 10 % poliéster. Antracita jaspeado: 52 % algodón y 48 % poliéster.",
