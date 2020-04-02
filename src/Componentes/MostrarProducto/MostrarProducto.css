@@ -1,58 +1,71 @@
 .camisas .camisas-img {
-    margin-bottom: 40px;
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap; }
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
 .camisas .camisas-img img {
-    border: 2px solid #ffc338;
-    border-radius: 2%; }
+  border: 2px solid #f7b733;
+  border-radius: 15px;
+}
 .camisas .camisas-img .nombre-camisa {
-    width: 100%;
-    margin: 5px;
-    padding: 10px 15px;
-    text-align: center;
-    color: #305178; }
+  width: 100%;
+  margin: 5px;
+  padding: 10px 15px;
+  text-align: center;
+  color: #4d4b4b;
+}
 .camisas .camisas-img .detalle-camisa {
-    text-decoration: none;
-    color: #fff;
-    background: #305178;
-    display: inline-block;
-    padding: 10px 15px;
-    border-radius: 20px;}
+  text-decoration: none;
+  color: #fff;
+  background: #305178;
+  display: inline-block;
+  padding: 10px 15px;
+  border-radius: 20px;
+}
 .camisas .camisas-img .detalle-camisa:hover {
-    background: #0a2046; }
+  background: #fc4a1a;
+}
 
 .camisas .detalles-ocultos .calificacion {
-    font-size: 25px;
-    color: #150578;
-    padding: 10px 0; }
+  font-size: 25px;
+  color: #000;
+  padding: 10px 0;
+}
 .camisas .detalles-ocultos p .fa {
-    color: #ffb400; }
+  color: #ffb400;
+}
 .camisas .detalles-ocultos p .far {
-    color: #ffb400; }
+  color: #ffb400;
+}
 .camisas .detalles-ocultos h2 {
-    font-size: 25px;
-    color: #1964fa;
-    padding: 10px 0; }
+  font-size: 25px;
+  color: #fc4a1a;
+  padding: 10px 0;
+}
 .camisas .detalles-ocultos .mas-detalles {
-    color: #0a2046; }
+  color: #4d4b4b;
+}
 .camisas .detalles-ocultos .mas-detalles li {
-    text-align: justify;
-    font-size: 18px;
-    padding-bottom: 15px; }
+  text-align: justify;
+  font-size: 18px;
+  padding-bottom: 15px;
+}
 .camisas .detalles-ocultos a {
-    display: inline-block;
-    text-decoration: none;
-    padding: 10px 15px;
-    color: #fff;
-    background: #1964fa;
-    border-radius: 4px; }
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px 15px;
+  color: #fff;
+  background: #f7b733;
+  border-radius: 4px;
+}
 .camisas .detalles-ocultos a:active {
-    background: #192bc2; }
+  background: #fc4a1a;
+}
 button {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .cantidad {
-    font-size: 20px
+  font-size: 20px;
 }

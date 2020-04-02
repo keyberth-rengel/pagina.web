@@ -1,24 +1,30 @@
 .productos .contenedor-camisas .camisa .camisa-img {
-    width: 30%;
-    margin-bottom: 40px;
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap; }
+  width: 30%;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
 .productos .contenedor-camisas .camisa .camisa-img img {
-    border: 2px solid #b6cde5; }
+  border: 2px solid #f7b733;
+  border-radius: 15px;
+}
 .productos .contenedor-camisas .camisa .camisa-img .nombre-camisa {
-    width: 100%;
-    margin: 5px;
-    padding: 10px 15px;
-    text-align: center;
-    color: #305178; }
+  width: 100%;
+  margin: 5px;
+  padding: 10px 15px;
+  text-align: center;
+  color: rgb(77, 75, 75);
+}
 .productos .contenedor-camisas .camisa .camisa-img .detalle-camisa {
-    text-decoration: none;
-    color: #fff;
-    background: #305178;
-    display: inline-block;
-    padding: 10px 15px;
-    border-radius: 20px;
-      /*detalles ocultos para mostrar en pantalla al darle al boton */ }
+  text-decoration: none;
+  color: #fff;
+  background: #fc4a1a;
+  display: inline-block;
+  padding: 10px 15px;
+  border-radius: 25px;
+  /*detalles ocultos para mostrar en pantalla al darle al boton */
+}
 .productos .contenedor-camisas .camisa .camisa-img .detalle-camisa:hover {
-    background: #0a2046; }
+  background: #f7b733;
+}

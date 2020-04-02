@@ -1,73 +1,88 @@
-
 .registrar-usuario {
-    width: 100%;
-    background: #fff; }
+  /* width: 70%; */
+  background: #dfdce3;
+  border-radius: 25px;
+  margin: 0 auto;
+  padding-top: 3%;
+}
 .registrar-usuario .enca-form {
-    width: 100%;
-    text-align: center;
-    color: #0a2046;
-    font-size: 25px;
-    padding: 10px 0;
-    margin-bottom: 15px; }
-    .registrar-usuario .enca-form img {
-    width: 30px; }
+  width: 100%;
+  text-align: center;
+  color: #000;
+  font-size: 25px;
+  padding: 10px 0;
+  margin-bottom: 15px;
+}
+.registrar-usuario .enca-form img {
+  width: 30px;
+}
 .registrar-usuario h2 {
-    font-size: 20px;
-    text-align: center;
-    color: #3c6a9f;
-    font-size: 25px;
-    padding: 10px 0;
-    margin-bottom: 10px; }
+  font-size: 20px;
+  text-align: center;
+  color: #fc4a1a;
+  font-size: 25px;
+  padding: 10px 0;
+  margin-bottom: 10px;
+}
 .registrar-usuario .formulario {
-    width: 60%;
-    flex-direction: column;
-    display: flex;
-    margin: 0 auto;
-    padding: 10px 15px; }
+  width: 60%;
+  flex-direction: column;
+  display: flex;
+  margin: 0 auto;
+  padding: 10px 15px;
+}
 .registrar-usuario .formulario input[type="text"],
 .registrar-usuario .formulario input[type="email"],
 .registrar-usuario .formulario input[type="password"] {
-    width: 90%;
-    margin: 0 auto;
-    font-size: 18px;
-    color: #0a2046;
-    border: none;
-    padding: 15px;
-    border-radius: 7px;
-    margin-bottom: 10px;
-    border: 2px solid #b6cde5; }
+  width: 90%;
+  margin: 0 auto;
+  font-size: 18px;
+  color: #000;
+  border: none;
+  padding: 15px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  border: 2px solid #dfdce3;
+}
 .registrar-usuario .formulario input[type="text"]:focus,
 .registrar-usuario .formulario input[type="email"]:focus,
 .registrar-usuario .formulario input[type="password"]:focus {
-    border: none; 
-    border-radius: 7px;
-    border: 2px solid #199bfa;}
+  border: none;
+  border-radius: 20px;
+  border: 2px solid #dfdce3;
+}
 .registrar-usuario .formulario .terminos {
-    display: flex;
-    justify-content: center;
-    font-size: 17px;
-    margin: 10px 0; }
+  display: flex;
+  justify-content: center;
+  font-size: 17px;
+  margin: 10px 0;
+}
 .registrar-usuario .formulario .terminos input[type="checkbox"] {
-        margin-right: 10px; }
+  margin-right: 10px;
+}
 .registrar-usuario .formulario .terminos label {
-        color: #0a2046; }
+  color: #000;
+}
 .registrar-usuario .formulario input[type="submit"] {
-    display: inline-block;
-    width: 35%;
-    color: #199bfa;
-    font-size: 17px;
-    margin-top: 10px;
-    background: none;
-    border: none;
-    border: 2px solid #199bfa;
-    padding: 5px 0;
-    margin: 0 auto;
-    border-radius: 7px;
-    cursor: pointer; }
+  display: inline-block;
+  width: 35%;
+  color: #fff;
+  font-size: 17px;
+  margin-top: 10px;
+  background: #fc4a1a;
+  border: none;
+  border: 2px solid #fc4a1a;
+  padding: 5px 0;
+  margin: 0 auto;
+  border-radius: 15px;
+  cursor: pointer;
+}
 .registrar-usuario .formulario input[type="submit"]:hover {
-    color: #fff;
-    background: #199bfa; }
+  color: #fff;
+  background: #f7b733;
+}
 .registrar-usuario .formulario input[type="submit"]:active {
-    color: #fff;
-    border: 2px solid #0a2046;
-    background: #0a2046; }
+  color: #fff;
+  border: 2px solid #0a2046;
+  background: #0a2046;
+}

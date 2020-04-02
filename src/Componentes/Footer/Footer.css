@@ -1,10 +1,11 @@
 footer {
-    width: 100%;
-    padding: 10px;
-    background: #3c6a9f;
-    border-top: 2px solid #fff;
-    position: fixed;
-    bottom: 0px;
+  width: 100%;
+  padding: 10px;
+  background: #6bb9ae;
+  border-top: 2px solid #fff;
+  position: fixed;
+  bottom: 0px;
 }
 footer p {
-    color: #fff;}
+  color: #fff;
+}
